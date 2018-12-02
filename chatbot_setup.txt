@@ -1,0 +1,7 @@
+Step 1: Install Anaconda
+Step 2: Open conda-terminal
+	run "conda create -n chatbot python=3.5 anaconda
+Step 3: Activate chatbot environment by command "source activate chatbot"
+Step 4: Install tensorflow by command "pip install tensorflow-gpu==1.0"
+Step 5: Once done open anaconda-navigator and select channel chatbot
+Step 6: Open spyder and run the chatbot.py file
